@@ -7,3 +7,5 @@ function Navigation(){
         <Link to="/about">About</Link>
     </div>
 }
+
+export default Navigation;
